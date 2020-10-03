@@ -1,1 +1,2 @@
-<filesmatch "\.html?$"="">SetHandler application/x-httpd-php</filesmatch> 
+RemoveHandler .html .htm
+AddType application/x-httpd-php .php .htm .html
