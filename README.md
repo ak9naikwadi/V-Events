@@ -6,4 +6,4 @@ technical committees like IEEE, CSI, ACM, ISTE, etc.
 * Centralized platform for all committees for registration and
 generation of attendees list.
 
-Stack includes : HTML, CSS, PHP, JavaScript, MySQL.
+**Stack includes** : HTML, CSS, PHP, JavaScript, MySQL.
