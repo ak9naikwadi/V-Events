@@ -1,4 +1,5 @@
 # V-Events
+[![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 ### Events Announcement and Registration website.
 * A college website which announces various events, seminars of the
 technical committees like IEEE, CSI, ACM, ISTE, etc.
