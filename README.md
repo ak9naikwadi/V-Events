@@ -16,7 +16,7 @@ generation of attendees list.
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ---
-### Webpage screenshots
+### Website screenshots
 + Home page
 
 ![homepage](https://github.com/ak9naikwadi/V-Events/blob/main/Output/home3.png "Homepage")
