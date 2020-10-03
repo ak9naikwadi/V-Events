@@ -27,4 +27,4 @@ generation of attendees list.
 
 + Registartion
 
-![registartion](https://github.com/ak9naikwadi/V-Events/blob/main/Output/login.png "Registartion")
+![registartion](https://github.com/ak9naikwadi/V-Events/blob/main/Output/reg.png "Registartion")
