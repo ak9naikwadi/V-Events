@@ -1,1 +1,1 @@
-AddHandler application/x-httpd-php5 .html .htm
+<filesmatch "\.html?$"="">SetHandler application/x-httpd-php</filesmatch> 
