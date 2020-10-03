@@ -1,5 +1,5 @@
 # V-Events
-Events Announcement and Registration website.
+### Events Announcement and Registration website.
 * A college website which announces various events, seminars of the
 technical committees like IEEE, CSI, ACM, ISTE, etc.
 
