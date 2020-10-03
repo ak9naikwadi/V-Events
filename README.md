@@ -17,4 +17,14 @@ generation of attendees list.
 
 ---
 ### Webpage screenshots
++ Home page
+
 ![homepage](https://github.com/ak9naikwadi/V-Events/blob/main/Output/home3.png "Homepage")
+
++ Login
+
+![login](https://github.com/ak9naikwadi/V-Events/blob/main/Output/login.png "Login")
+
++ Registartion
+
+![registartion](https://github.com/ak9naikwadi/V-Events/blob/main/Output/login.png "Registartion")
