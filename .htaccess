@@ -1,2 +1,2 @@
-RemoveHandler .html .htm
-AddType application/x-httpd-php .php .htm .html
+AddHandler fcgid-script .html
+FCGIWrapper /usr/local/cpanel/cgi-sys/php5 .html
